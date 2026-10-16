@@ -1,1 +1,2 @@
-# traditional_classifiers_master-for-3DMPM
+# traditional_classifiers
+Conduct experiments  with traditional hand-engineered features.
